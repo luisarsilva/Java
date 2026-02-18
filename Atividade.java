@@ -16,7 +16,7 @@ public class Atividade {
 		System.out.println("Informe sua idade:");
 		idade = ler.nextInt();
 		
-		System.out.println("Seus dados são: " + nome + idade );
+		System.out.println("Seus dados são: " + nome +" "+idade );
 		
 
 	}
